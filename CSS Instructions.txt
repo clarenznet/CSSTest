@@ -1,0 +1,53 @@
+CSS Instructions
+
+
+There are 2 CSS tasks listed below. For both of the below tasks, you should upload your results using GitHub Pages (it’s free, fast hosting.) Once both of your tasks have been uploaded to GitHub Pages, submit both of your result URLs in this form: https://forms.gle/EKHMF7aBxT2AYgBC6
+
+CSS Competence Unpaid Trial Task #1
+
+CSS Competence Trial Task
+Objective: Create a responsive, animated webpage showcasing your mastery in CSS. The task is open-ended to allow you to be creative and display a range of skills.
+Specifications:
+Layout: Use a CSS grid or flexbox to design a webpage containing a header, main content, and footer.
+Animation: Implement at least one keyframe animation. This could be a button hover effect, content transition, or any other imaginative implementation.
+Responsiveness: Ensure the design is mobile-friendly. Test on multiple screen sizes.
+Advanced Techniques: Incorporate any two of the following - CSS variables, blend modes, clipping, masking or gradients.
+Performance: Optimize for speed and performance. This might include considering rendering times and minimalistic, efficient coding.
+Submission:
+Provide the link to your hosted project and any source code repositories (e.g., GitHub).
+Evaluation Criteria:
+It should look GREAT and function flawlessly on popular mobile devices.
+Compliance with specifications.
+Creativity and aesthetic appeal.
+Code cleanliness and efficiency.
+Performance optimization techniques.
+Best of luck!
+CSS Competence Unpaid Trial Task #2
+
+Objective: Create a single-page website focusing on CSS transitions, transforms, and pseudo-elements to demonstrate your prowess in intricate detail work and animation. The open-ended nature of this task allows for creativity and the demonstration of your unique style.
+
+Specifications:
+
+Interactivity: Craft a set of at least three interactive UI elements (e.g., buttons, sliders, toggles) that each utilize a different CSS transition or transform when interacted with.
+Pseudo-Elements: Design a section where ::before and ::after pseudo-elements play a crucial role. This can be decorative, functional, or both.
+
+
+3D Elements: Implement a component that uses CSS 3D transforms. This could be a card flip, a rotating cube, or any 3D interaction of your choice.
+
+
+Custom Cursors: Create at least one custom cursor that changes based on the area of the webpage it's over.
+
+
+Visual Feedback: Ensure that interactive elements provide clear visual feedback using CSS techniques.
+
+Submission:
+Provide the link to your hosted project and any source code repositories (e.g., GitHub).
+
+Evaluation Criteria:
+It should look GREAT and function flawlessly on popular mobile devices.
+Adherence to the outlined specifications.
+Originality and finesse in design.
+Code clarity and efficiency.
+Effective use of CSS transitions and transforms.
+
+
