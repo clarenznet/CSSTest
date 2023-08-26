@@ -20,6 +20,7 @@ It should look GREAT and function flawlessly on popular mobile devices.
 Compliance with specifications.
 Creativity and aesthetic appeal.
 Code cleanliness and efficiency.
+
 Performance optimization techniques.
 Best of luck!
 CSS Competence Unpaid Trial Task #2
